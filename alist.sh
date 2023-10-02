@@ -13,7 +13,7 @@ cat >/opt/alist/data/config.json <<EOF
     "port": $SQLPORT,
     "name": "$SQLNAME",
     "table_prefix": "x_",
-    "db_file": "data.db"
+    "db_file": "data.db",
     "ssl_mode": ""
   },
   "scheme": {
