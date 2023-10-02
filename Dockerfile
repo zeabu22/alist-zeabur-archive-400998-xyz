@@ -6,4 +6,4 @@ RUN chmod +x /alist.sh
 
 EXPOSE 5244
 
-CMD [ "/alist.sh" ]
+CMD /alist.sh
